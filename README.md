@@ -1,2 +1,8 @@
 # Ali
 Airdrop hunter
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xf512B94f7CfCB5938E6Be96A1a9488952e6b35c7'
+quorum: 1
